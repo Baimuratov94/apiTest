@@ -1,14 +1,224 @@
-{
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
+[
+    {
+        "id": 123,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6700
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 213123,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6600
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 234523452,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6500
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 1234523453,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6400
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 2345234523,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6300
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 2345235234,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6200
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 2345234523,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6100
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 32452345,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 6000
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 23452345324,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5900
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 23453245234,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5800
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 12345234523,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5700
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 127857754573,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5600
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 1234523452343,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5500
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 2345236652,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5400
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 2345256245,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5300
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 214323345645345,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5200
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
+    },
+    {
+        "id": 5347589678,
+        "group": "алкогольные напитки",
+        "downgroup": "пиво",
+        "name": "1664",
+        "priceAttr": {
+            "type": "банка",
+            "col": "0.45",
+            "price": 5100
+        },
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "pictures": "link-url"
     }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
-}
+    
+]
